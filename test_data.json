@@ -1,0 +1,38 @@
+{
+  "game library": ["game 1", "game 2", "game 3"],
+  "games" : [
+    {
+      "name": "game 1",
+      "launch year": 1989,
+      "platform" : [
+        {
+          "name": "Atari Lynx",
+          "title": "Chip's Challenge"
+        }
+      ],
+      "Year": 1989
+    },
+    {
+      "name": "game 2",
+      "launch year": 2003,
+      "platform" : [
+        {
+          "name": "Steam",
+          "title": "Chip's Challenge 2"
+        }
+      ],
+      "Year": 2015
+    },
+    {
+      "name": "game 3",
+      "launch year": 2020,
+      "platform" : [
+        {
+          "name": "Python",
+          "title": "Chip's Challenge 3"
+        }
+      ],
+      "Year": 2020
+    }
+  ]
+}
