@@ -27,7 +27,8 @@ class Game:
 #This is the GameLibrary class.
 #It is defined by a single piece of data: a list of games
 class GameLibrary:
-    def __init__(self):
+    def __init__(self, game_library=[]):
+        self.game_library = game_library
         self.games = []
 
     def add_game(self, game):
